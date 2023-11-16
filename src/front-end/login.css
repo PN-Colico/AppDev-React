@@ -1,0 +1,123 @@
+/* login.css */
+
+.card h2,
+.card h6,
+.card label {
+  color: black !important;
+}
+
+.login-body {
+  margin: 0;
+  padding: 0;
+  background-image: url('../img/genshin-last.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-container {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.card {
+  width: 380px;
+  border: solid 2px black;
+  border-radius: 6px;
+  padding: 20px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group-user,
+.form-group-password {
+  margin-left: 4px;
+}
+
+.form-control-user {
+  margin-right: 5px;
+}
+
+.card .btn {
+  float: left;
+  width: 48%;
+  font-size: 0.8rem;
+}
+
+.card .btn-btm {
+  padding: 0;
+}
+
+.card .btn-left {
+  margin-right: 4%;
+}
+
+.card #btn_sign_in {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: black;
+  background-color: transparent;
+  border: 2px solid black;
+}
+
+.card #btn_remember {
+  margin-top: 10px;
+  background: white;
+  border: 1px solid #ced4da;
+  color: black;
+}
+
+.card #btn_remember:hover {
+  background: #f8f9fa;
+}
+
+.card h6,
+.card label {
+  font-size: 0.8rem;
+  margin-right: 10px;
+}
+
+.card h6,
+.card label,
+.card #btn_remember {
+  color: black;
+}
+
+.card .fa {
+  padding-right: 10px;
+}
+
+.card hr {
+  clear: left;
+}
+
+.card .btm-links {
+  font-size: 0.8rem;
+  margin: 2px 0 0 0;
+}
+
+.card .btm-links #forgot-password {
+  float: left;
+  margin-left: 16px;
+  color: black;
+}
+
+.card .btm-links #create-account {
+  float: right;
+  margin-right: 20px;
+  color: white;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: white;
+}
