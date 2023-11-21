@@ -1,0 +1,110 @@
+.team {
+  color: var(--color-brown);
+}
+.our-team {
+  position: absolute;
+  top: calc(50% - 303.5px);
+  left: calc(50% - 749px);
+  display: inline-block;
+  width: 1418px;
+  height: 351px;
+}
+.frame-child28 {
+  position: absolute;
+  top: 223px;
+  left: 0px;
+  border-radius: var(--br-231xl);
+  background-color: var(--color-white);
+  border: 10px solid var(--color-brown);
+  box-sizing: border-box;
+  width: 410px;
+  height: 384px;
+}
+.frame-child29 {
+  position: absolute;
+  top: 223px;
+  left: 1384px;
+  border-radius: var(--br-231xl);
+  background-color: var(--color-white);
+  border: 10px solid var(--color-brown);
+  box-sizing: border-box;
+  width: 410px;
+  height: 384px;
+}
+.frame-child30 {
+  position: absolute;
+  top: 223px;
+  left: 465px;
+  border-radius: var(--br-231xl);
+  background-color: var(--color-white);
+  border: 10px solid var(--color-brown);
+  box-sizing: border-box;
+  width: 410px;
+  height: 384px;
+}
+.frame-child31 {
+  position: absolute;
+  top: 223px;
+  left: 924px;
+  border-radius: var(--br-231xl);
+  background-color: var(--color-white);
+  border: 10px solid var(--color-brown);
+  box-sizing: border-box;
+  width: 410px;
+  height: 384px;
+}
+.frame-div {
+  position: absolute;
+  top: 177px;
+  left: 367px;
+  width: 500px;
+  height: 157px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 207px;
+  left: 482px;
+  border-radius: 0px 0px var(--br-151xl) var(--br-151xl);
+  width: 375px;
+  height: 390px;
+  object-fit: cover;
+}
+.image-2-icon {
+  position: absolute;
+  top: 223px;
+  left: 0px;
+  border-radius: 0px 0px var(--br-176xl) var(--br-176xl);
+  width: 410px;
+  height: 374px;
+  object-fit: cover;
+}
+.image-3-icon {
+  position: absolute;
+  top: 237px;
+  left: 1391px;
+  border-radius: 0px 0px var(--br-201xl) var(--br-201xl);
+  width: 398px;
+  height: 364px;
+  object-fit: cover;
+}
+.image-4-icon {
+  position: absolute;
+  top: 213px;
+  left: 924px;
+  border-radius: 0px 0px var(--br-201xl) var(--br-201xl);
+  width: 410px;
+  height: 388px;
+  object-fit: cover;
+}
+.frame56 {
+  position: absolute;
+  top: 8695px;
+  left: 104px;
+  width: 1794px;
+  height: 607px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-61xl);
+  color: var(--color-goldenrod);
+  font-family: var(--font-roboto);
+}

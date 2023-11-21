@@ -1,0 +1,350 @@
+.login-child {
+  position: absolute;
+  top: 233px;
+  left: 1707px;
+  border-top: 2px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 220px;
+  height: 2px;
+}
+.grey-and-yellow-modern-univers {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1444px;
+  height: 1055px;
+  object-fit: cover;
+}
+.frame-child8 {
+  position: relative;
+  background-color: var(--color-brown);
+  width: 99px;
+  height: 18px;
+  cursor: pointer;
+}
+.frame36 {
+  position: absolute;
+  top: 597px;
+  left: 1592px;
+  width: 99px;
+  height: 401px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-child9 {
+  position: relative;
+  background-color: var(--color-brown);
+  width: 143px;
+  height: 25px;
+  cursor: pointer;
+}
+.frame37 {
+  position: absolute;
+  top: 733px;
+  left: 1688px;
+  width: 143px;
+  height: 265px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.login-item {
+  position: absolute;
+  top: 0px;
+  left: 1319px;
+  background-color: var(--color-brown);
+  width: 666px;
+  height: 998px;
+}
+.connect-with {
+  position: relative;
+  font-weight: 500;
+}
+.frame38 {
+  position: absolute;
+  top: 134px;
+  left: 1583px;
+  width: 125px;
+  height: 864px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame39 {
+  position: absolute;
+  top: 548px;
+  left: 1391px;
+  width: 172px;
+  height: 450px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  color: var(--color-gainsboro);
+}
+.register-today {
+  color: var(--color-goldenrod);
+}
+.dont-have-an-container {
+  align-self: stretch;
+  position: relative;
+}
+.frame40 {
+  position: absolute;
+  top: 734px;
+  left: 1456px;
+  width: 375px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
+  color: var(--color-gainsboro);
+}
+.frame41 {
+  position: absolute;
+  top: 219px;
+  left: 1649px;
+  width: 25px;
+  height: 779px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 25px;
+}
+.frame42 {
+  position: absolute;
+  top: 52px;
+  left: 1554px;
+  width: 196px;
+  height: 946px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 28px;
+}
+.login-to-continue {
+  align-self: stretch;
+  position: relative;
+  font-weight: 800;
+}
+.frame43 {
+  position: absolute;
+  top: 86px;
+  left: 1480px;
+  width: 344px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gainsboro);
+}
+.frame-child10 {
+  align-self: stretch;
+  position: relative;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-goldenrod);
+  height: 76px;
+  cursor: pointer;
+}
+.frame44 {
+  position: absolute;
+  top: 620px;
+  left: 1391px;
+  width: 535px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.login2 {
+  position: relative;
+  font-weight: 800;
+  display: inline-block;
+  width: 126px;
+  cursor: pointer;
+}
+.frame45 {
+  position: absolute;
+  top: 639px;
+  left: 1599px;
+  width: 126px;
+  height: 359px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: var(--font-size-13xl);
+  color: var(--color-brown);
+}
+.email2 {
+  position: relative;
+}
+.frame46 {
+  position: absolute;
+  top: 310px;
+  left: 1396px;
+  width: 77px;
+  height: 688px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-tahoma);
+}
+.frame47 {
+  position: absolute;
+  top: 423px;
+  left: 1391px;
+  width: 145px;
+  height: 575px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-tahoma);
+}
+.frame-child11 {
+  align-self: stretch;
+  position: relative;
+  border-radius: var(--br-5xs);
+  background: linear-gradient(#e8d9d9, #e8d9d9), linear-gradient(#fff, #fff),
+    #fff;
+  height: 58px;
+}
+.frame48 {
+  position: absolute;
+  top: 357px;
+  left: 1391px;
+  width: 535px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame49 {
+  position: absolute;
+  top: 473px;
+  left: 1391px;
+  width: 535px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.logo-1-icon3 {
+  position: relative;
+  width: 215px;
+  height: 194px;
+  object-fit: cover;
+}
+.frame50 {
+  position: absolute;
+  top: -38px;
+  left: -48px;
+  width: 215px;
+  height: 1036px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-icon1 {
+  position: absolute;
+  top: 159px;
+  left: 1596px;
+  width: 46px;
+  height: 839px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-icon2 {
+  position: absolute;
+  top: 167px;
+  left: 1609px;
+  width: 20px;
+  height: 831px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-icon3 {
+  position: absolute;
+  top: 161px;
+  left: 1656px;
+  width: 40px;
+  height: 837px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-icon4 {
+  position: absolute;
+  top: 161px;
+  left: 1658px;
+  width: 32px;
+  height: 837px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-icon5 {
+  position: absolute;
+  top: 185px;
+  left: 1658px;
+  width: 31px;
+  height: 813px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-icon6 {
+  position: absolute;
+  top: 177px;
+  left: 1676px;
+  width: 20px;
+  height: 821px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.login-inner {
+  position: absolute;
+  top: 233px;
+  left: 1390px;
+  border-top: 2px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 230px;
+  height: 2px;
+}
+.login1 {
+  position: relative;
+  background-color: var(--color-gainsboro);
+  width: 100%;
+  height: 998px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-goldenrod);
+  font-family: var(--font-inter);
+}

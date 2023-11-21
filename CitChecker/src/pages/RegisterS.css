@@ -1,0 +1,214 @@
+.s-1-icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1677px;
+  height: 1477px;
+  object-fit: cover;
+}
+.logo-1-icon2 {
+  position: relative;
+  width: 215px;
+  height: 194px;
+  object-fit: cover;
+}
+.frame23 {
+  position: absolute;
+  top: -286px;
+  left: -48px;
+  width: 215px;
+  height: 442px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame24 {
+  position: absolute;
+  top: -286px;
+  left: 1319px;
+  background-color: var(--color-brown);
+  width: 666px;
+  overflow: hidden;
+}
+.frame25 {
+  position: absolute;
+  top: -286px;
+  left: 1367px;
+  width: 143px;
+  height: 508px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame26 {
+  position: absolute;
+  top: -286px;
+  left: 1367px;
+  width: 77px;
+  height: 633px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame27 {
+  position: absolute;
+  top: -286px;
+  left: 1367px;
+  width: 134px;
+  height: 758px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.program {
+  position: relative;
+}
+.frame28 {
+  position: absolute;
+  top: -286px;
+  left: 1367px;
+  width: 120px;
+  height: 883px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame-child3 {
+  position: relative;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gainsboro);
+  width: 552px;
+  height: 78px;
+}
+.frame29 {
+  position: absolute;
+  top: -286px;
+  left: 1368px;
+  width: 552px;
+  height: 594px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame30 {
+  position: absolute;
+  top: -286px;
+  left: 1368px;
+  width: 552px;
+  height: 719px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame31 {
+  position: absolute;
+  top: -286px;
+  left: 1367px;
+  width: 553px;
+  height: 844px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame32 {
+  position: absolute;
+  top: -286px;
+  left: 1368px;
+  width: 552px;
+  height: 969px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.student-registration {
+  position: relative;
+  font-weight: 800;
+  display: inline-block;
+  width: 552px;
+}
+.frame33 {
+  position: absolute;
+  top: -286px;
+  left: 1368px;
+  width: 552px;
+  height: 420px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  text-align: center;
+  font-size: var(--font-size-26xl);
+  color: var(--color-gainsboro);
+  font-family: var(--font-inter);
+}
+.create1 {
+  position: relative;
+  font-weight: 800;
+}
+.frame34 {
+  position: absolute;
+  top: -286px;
+  left: 1555px;
+  width: 198px;
+  height: 1129px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 6px 0px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-end;
+  color: var(--color-brown);
+  font-family: var(--font-inter);
+}
+.frame-child7 {
+  position: relative;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-goldenrod);
+  width: 381px;
+  height: 78px;
+  cursor: pointer;
+}
+.frame35 {
+  position: absolute;
+  top: -286px;
+  left: 1461px;
+  width: 381px;
+  height: 1143px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  cursor: pointer;
+}
+.registers {
+  position: relative;
+  background-color: var(--color-gainsboro);
+  width: 100%;
+  height: 998px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-goldenrod);
+  font-family: var(--font-tahoma);
+}

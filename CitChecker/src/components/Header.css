@@ -1,0 +1,90 @@
+.logo-1-icon4 {
+  position: absolute;
+  top: 38px;
+  left: 48px;
+  width: 215px;
+  height: 194px;
+  object-fit: cover;
+}
+.frame-child24 {
+  position: absolute;
+  top: 77px;
+  left: 1061px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-brown);
+  width: 201px;
+  height: 67px;
+}
+.frame-child25 {
+  position: absolute;
+  top: 78px;
+  left: 835px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-brown);
+  width: 201px;
+  height: 67px;
+}
+.home1 {
+  position: absolute;
+  top: 98px;
+  left: 912px;
+  font-weight: 800;
+}
+.frame-child26 {
+  position: absolute;
+  top: 77px;
+  left: 1286px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-brown);
+  width: 201px;
+  height: 67px;
+  cursor: pointer;
+}
+.about-us1 {
+  position: absolute;
+  top: 99px;
+  left: 1350px;
+  font-weight: 800;
+}
+.features1 {
+  position: absolute;
+  top: 99px;
+  left: 1118px;
+  font-weight: 800;
+  cursor: pointer;
+}
+.frame-child27 {
+  position: absolute;
+  top: 78px;
+  left: 1512px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-brown);
+  width: 201px;
+  height: 67px;
+}
+.login3 {
+  position: absolute;
+  top: 99px;
+  left: 1585px;
+  font-weight: 800;
+  cursor: pointer;
+}
+.signup {
+  position: absolute;
+  top: 99px;
+  left: 1804px;
+  font-weight: 800;
+  cursor: pointer;
+}
+.frame55 {
+  position: absolute;
+  top: -38px;
+  left: -48px;
+  width: 1939px;
+  height: 194px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-goldenrod);
+  font-family: var(--font-inter);
+}

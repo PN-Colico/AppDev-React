@@ -1,0 +1,202 @@
+.frame-child32 {
+  position: absolute;
+  top: 411px;
+  left: 0px;
+  background-color: var(--color-brown);
+  width: 1985px;
+  height: 245px;
+}
+.frame-child33 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-brown);
+  width: 1985px;
+  height: 419px;
+}
+.copyright-information {
+  position: absolute;
+  top: 497px;
+  left: 36px;
+  text-align: center;
+}
+.features2 {
+  position: absolute;
+  top: 33px;
+  left: 47px;
+  text-align: center;
+}
+.terms-and-conditions {
+  position: absolute;
+  top: 493px;
+  left: 1389px;
+  text-align: center;
+}
+.privacy-policy {
+  position: absolute;
+  top: 493px;
+  left: 1753px;
+  text-align: center;
+}
+.frame-child34 {
+  position: absolute;
+  top: 441.5px;
+  left: 45.5px;
+  border-top: 3px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 1892px;
+  height: 3px;
+}
+.smallbox {
+  position: absolute;
+  top: 42px;
+  left: 1332px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gainsboro);
+  width: 600px;
+  height: 359px;
+}
+.logo-2-icon {
+  position: absolute;
+  top: 33px;
+  left: 1305px;
+  width: 215px;
+  height: 194px;
+  object-fit: cover;
+}
+.maximize-your {
+  margin: 0;
+}
+.maximize-your-productivity-container {
+  position: absolute;
+  top: 191px;
+  left: 1366px;
+  font-size: var(--font-size-mini);
+  color: var(--color-brown);
+}
+.frame-child35 {
+  position: absolute;
+  top: 247px;
+  left: 1383.5px;
+  border-top: 1px solid var(--color-goldenrod);
+  box-sizing: border-box;
+  width: 502px;
+  height: 1px;
+}
+.frame-child36 {
+  position: absolute;
+  top: 294px;
+  left: 1371px;
+  background-color: var(--color-brown);
+  width: 166px;
+  height: 57px;
+}
+.frame-child37 {
+  position: absolute;
+  top: 297px;
+  left: 1374px;
+  background-color: var(--color-gainsboro);
+  width: 160px;
+  height: 51px;
+}
+.getit-on {
+  position: absolute;
+  top: 305px;
+  left: 1594px;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+}
+.app-store {
+  margin: 0;
+  font-size: var(--font-size-mini);
+}
+.download-on-the-container {
+  position: absolute;
+  top: 305px;
+  left: 1429px;
+  color: var(--color-brown);
+  font-size: var(--font-size-xs);
+}
+.apple-logo-icon {
+  position: absolute;
+  top: 300px;
+  left: 1371px;
+  width: 51px;
+  height: 46px;
+  object-fit: cover;
+}
+.frame-child38 {
+  position: absolute;
+  top: 294px;
+  left: 1546px;
+  background-color: var(--color-brown);
+  width: 166px;
+  height: 57px;
+}
+.frame-child39 {
+  position: absolute;
+  top: 297px;
+  left: 1549px;
+  background-color: var(--color-gainsboro);
+  width: 160px;
+  height: 51px;
+}
+.frame-child40 {
+  position: absolute;
+  top: 294px;
+  left: 1722px;
+  background-color: var(--color-brown);
+  width: 166px;
+  height: 57px;
+}
+.frame-child41 {
+  position: absolute;
+  top: 297px;
+  left: 1725px;
+  background-color: var(--color-gainsboro);
+  width: 160px;
+  height: 51px;
+}
+.google-icon {
+  position: absolute;
+  top: 300px;
+  left: 1725px;
+  width: 49px;
+  height: 46px;
+  object-fit: cover;
+}
+.google-play-icon {
+  position: absolute;
+  top: 300px;
+  left: 1546px;
+  width: 51px;
+  height: 42px;
+  object-fit: cover;
+}
+.get-it-on-container {
+  position: absolute;
+  top: 304px;
+  left: 1604px;
+  color: var(--color-brown);
+  font-size: var(--font-size-xs);
+}
+.google-chrome-extension-container {
+  position: absolute;
+  top: 304px;
+  left: 1781px;
+  font-size: var(--font-size-xs);
+  color: var(--color-brown);
+  white-space: pre-wrap;
+}
+.frame57 {
+  position: absolute;
+  top: 9453px;
+  left: 0px;
+  width: 1985px;
+  height: 656px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-goldenrod);
+  font-family: var(--font-tahoma);
+}
